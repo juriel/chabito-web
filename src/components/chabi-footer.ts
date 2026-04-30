@@ -18,11 +18,11 @@ export class ChabiFooter extends LitElement {
           </p>
           <div class="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
-              href="https://github.com/chabi-oss/chabi"
+              href="https://github.com/juriel/chabito2"
               target="_blank"
               class="inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-tertiary"
             >
-              Ver repositorio en GitHub
+              Ver repositorio en GitHub https://github.com/juriel/chabito2
             </a>
             <a
               href="#hero"
@@ -34,7 +34,7 @@ export class ChabiFooter extends LitElement {
           <div class="mt-12 flex flex-wrap justify-center gap-4 text-sm text-white/80">
             <a href="#" class="transition hover:text-white">Twitter</a>
             <a href="#" class="transition hover:text-white">Discord</a>
-            <a href="#" class="transition hover:text-white">GitHub</a>
+            <a href="https://github.com/juriel/chabito2" class="transition hover:text-white">GitHub</a>
             <a href="#" class="transition hover:text-white">Documentación</a>
           </div>
         </div>

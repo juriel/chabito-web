@@ -21,7 +21,7 @@ export class ChabiQuickstart extends LitElement {
             <div class="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-3xl bg-secondary/10 text-secondary">1</div>
             <h3 class="text-lg font-semibold text-slate-900">Clona el Repo</h3>
             <pre class="mt-4 overflow-x-auto rounded-3xl bg-slate-950/95 p-4 text-xs font-semibold text-white">
-git clone https://github.com/chabi-oss/chabi.git
+git clone https://github.com/juriel/chabito2
             </pre>
           </div>
           <div class="rounded-[1.75rem] bg-box-bg p-8 shadow-sm">
