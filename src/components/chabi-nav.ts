@@ -19,7 +19,7 @@ export class ChabiNav extends LitElement {
           </a>
           <nav class="hidden items-center gap-10 text-sm font-medium text-slate-700 md:flex">
             <a href="#concepto" class="transition hover:text-primary">Características</a>
-            <a href="#instalacion" class="transition hover:text-primary">Tutorial</a>
+            <a href="#instrucciones" class="transition hover:text-primary">Tutorial</a>
             <a href="#open-source" class="transition hover:text-primary">Open Source</a>
           </nav>
           <div class="flex items-center gap-3">

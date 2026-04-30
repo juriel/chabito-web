@@ -3,6 +3,7 @@ import './components/chabi-nav';
 import './components/chabi-hero';
 import './components/chabi-concept';
 import './components/chabi-quickstart';
+import './components/chabi-instructions';
 import './components/chabi-feature-grid';
 import './components/chabi-footer';
 
@@ -20,6 +21,7 @@ export class ChabiPage extends LitElement {
           <div class="mt-20 space-y-16">
             <chabi-concept></chabi-concept>
             <chabi-quickstart></chabi-quickstart>
+            <chabi-instructions></chabi-instructions>
             <chabi-feature-grid></chabi-feature-grid>
           </div>
         </main>
