@@ -22,10 +22,10 @@ export class ChabiFooter extends LitElement {
               target="_blank"
               class="inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-tertiary"
             >
-              Ver repositorio en GitHub https://github.com/juriel/chabito2
+              Ver repositorio en GitHub
             </a>
             <a
-              href="#hero"
+              href="/"
               class="inline-flex rounded-full border border-white/30 px-6 py-3 text-sm font-semibold text-white transition hover:border-white"
             >
               Regresa al inicio

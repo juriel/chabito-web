@@ -42,7 +42,7 @@ export class ChabiQuickstart extends LitElement {
 
         <div class="text-center">
           <a
-            href="#instrucciones"
+            href="/instrucciones"
             class="inline-flex items-center justify-center rounded-full bg-primary px-8 py-4 text-base font-semibold text-white transition hover:bg-secondary"
           >
             Ver Guía Técnica Completa

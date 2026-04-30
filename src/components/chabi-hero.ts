@@ -20,12 +20,12 @@ export class ChabiHero extends LitElement {
           </p>
           <div class="mt-10 flex flex-col gap-4 sm:flex-row">
             <a
-              href="#instalacion"
+              href="/instrucciones"
               class="inline-flex items-center justify-center rounded-full bg-secondary px-8 py-4 text-base font-semibold text-white transition hover:bg-primary"
             >
               ¡Crea tu primer Chabito ahora!
             </a>
-            <a href="#open-source" class="inline-flex items-center justify-center rounded-full border border-slate-300 px-8 py-4 text-base font-semibold text-slate-900 transition hover:border-primary hover:text-primary">
+            <a href="/#open-source" class="inline-flex items-center justify-center rounded-full border border-slate-300 px-8 py-4 text-base font-semibold text-slate-900 transition hover:border-primary hover:text-primary">
               Ver código abierto
             </a>
           </div>
